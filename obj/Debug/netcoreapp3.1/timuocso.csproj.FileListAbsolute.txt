@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\timuocso\bin\Debug\netcoreapp3.1\timuocso.exe
+C:\Users\Admin\source\repos\timuocso\bin\Debug\netcoreapp3.1\timuocso.deps.json
+C:\Users\Admin\source\repos\timuocso\bin\Debug\netcoreapp3.1\timuocso.runtimeconfig.json
+C:\Users\Admin\source\repos\timuocso\bin\Debug\netcoreapp3.1\timuocso.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\timuocso\bin\Debug\netcoreapp3.1\timuocso.dll
+C:\Users\Admin\source\repos\timuocso\bin\Debug\netcoreapp3.1\timuocso.pdb
+C:\Users\Admin\source\repos\timuocso\obj\Debug\netcoreapp3.1\timuocso.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\timuocso\obj\Debug\netcoreapp3.1\timuocso.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\timuocso\obj\Debug\netcoreapp3.1\timuocso.AssemblyInfo.cs
+C:\Users\Admin\source\repos\timuocso\obj\Debug\netcoreapp3.1\timuocso.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\timuocso\obj\Debug\netcoreapp3.1\timuocso.dll
+C:\Users\Admin\source\repos\timuocso\obj\Debug\netcoreapp3.1\timuocso.pdb
+C:\Users\Admin\source\repos\timuocso\obj\Debug\netcoreapp3.1\timuocso.genruntimeconfig.cache
