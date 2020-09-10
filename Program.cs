@@ -1,28 +1,33 @@
-﻿using System;
+using System;
 using System.Text;
 namespace timuocso
 {
-    class uocso
+    class Program
     {
+        static int uocso(int a, int b)
+        {
+            int j = (a < b) ? a : b;
+            for (int i = 1; i <= j; i++)
+            {
+                if (a % i == 0 && b % i == 0)
+                {
+                    int ketqua = i;
+                    return ketqua;
+                }
+            } return a;
+        }
         public static void Main()
         {
             Console.OutputEncoding = Encoding.UTF8;
-            int i, n1, n2, j, uscln = 1;
+            int n1, n2, uscln;
             Console.Write("Nhập a: ");
             n1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Nhập b: ");
             n2 = Convert.ToInt32(Console.ReadLine());
-            j = (n1 < n2) ? n1 : n2;
-            for (i = 1; i <= j; i++)
-            {
-                if (n1 % i == 0 && n2 % i == 0)
-                {
-                    uscln = i;
-                }
-            }
-            Console.Write("\nƯớc số chung lớn nhất của {0} và {1} là: {2}\n\n", n1, n2, uscln);
-
+            uscln = Program.uocso(n1, n2);
+            Console.Write("Ước số chung lớn nhất của {0} và {1} là: {2}", n1, n2, uscln);
             Console.ReadKey();
         }
+
     }
 }
